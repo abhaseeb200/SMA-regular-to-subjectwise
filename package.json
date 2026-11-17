@@ -1,0 +1,8 @@
+{
+  "name": "attendance-subject-summary",
+  "version": "1.0.0",
+  "description": "Fill the subject-wise attendance summary from the daily class attendance sheet",
+  "main": "index.js",
+  "scripts": { "start": "node index.js" },
+  "dependencies": { "exceljs": "^4.4.0" }
+}
